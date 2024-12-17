@@ -1,6 +1,6 @@
-unique_name: atscale_demo
+unique_name: Atscale_KT
 object_type: catalog
-label: Ins Claims Demo
-as_version: 1.0
+label: Insurance Claims 
+version: 1.0
 aggressive_agg_promotion: false
 build_speculative_aggs: false
